@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SharedUiComponent } from '@angular-monorepo/shared-ui';
-
 @Component({
   selector: 'lib-products',
   standalone: true,
